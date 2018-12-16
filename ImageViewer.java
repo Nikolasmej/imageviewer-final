@@ -256,6 +256,7 @@ public class ImageViewer
         filterList.add(new EdgeFilter("Edge Detection"));
         filterList.add(new FishEyeFilter("Fish Eye"));
         filterList.add(new PineGladeFilter("Pine Glade"));
+        filterList.add(new FlipPicFilter("Flip picture"));
        
         return filterList;
     }
