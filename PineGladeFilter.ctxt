@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=PineGladeFilter
+comment0.text=\r\n\ Image\ filter\ to\ make\ it\ pine\ glade\ color.\r\n\r\n\ @author\ (Nick)\r\n\ @version\ (1)\r\n
+comment1.params=name
+comment1.target=PineGladeFilter(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PineGladeFilter\r\n\ @string\ name\r\n
+comment2.params=image
+comment2.target=void\ apply(OFImage)
+comment2.text=\r\n\ \r\n\ apply\ filter\ pine\ glade\r\n\ @param\ image\r\n\ \r\n
+numComments=3
